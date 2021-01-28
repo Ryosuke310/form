@@ -1,5 +1,3 @@
-
-
 body{
     width: 55%;
     margin: 0 auto;
@@ -13,8 +11,12 @@ body{
 .txt-red{
     color: #ff0000;
 }
+.form{
+    margin-top: 30px;
+}
 .attention{
     margin: 50px 0;
+    line-height: 120%;
 }
 .top-image{
     margin-top: 20px;
