@@ -16,7 +16,7 @@ body{
 }
 .attention{
     margin: 50px 0;
-    line-height: 120%;
+    line-height: 140%;
 }
 .top-image{
     margin-top: 20px;
@@ -108,6 +108,9 @@ footer .headline > img{
     .attention{
         font-size: 8px;
     }
+    .top-image__img{
+        width: 45%;
+    }
     .content__image{
         width: 90%;
     }
@@ -121,7 +124,7 @@ footer .headline > img{
         width: 60%;
     }
     footer .headline{
-        width: 50%;
+        width: 45%;
     }
     footer .headline > img{
         width: 100%;
